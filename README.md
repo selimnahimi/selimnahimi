@@ -1,7 +1,5 @@
 # Hi! 👋 
 
-![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HUNcamper&theme=monokai)
-
 <!--
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
