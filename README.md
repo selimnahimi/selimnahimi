@@ -50,5 +50,3 @@ https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoCol
 ### PRESENT
 - Working on [s&box](https://sbox.facepunch.com/) stuff
 - Doing full stack web development
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=216njkv6lxginbv233unr5tli&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
