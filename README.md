@@ -16,6 +16,7 @@ OS:
 Primary languages:  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <!--
@@ -55,6 +56,5 @@ https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoCol
 -->
 
 ### PRESENT
-- Working on Godot projects
-- Doing full stack web development
-- Working on internal systems at thyssenkrupp
+- Playing around with reverse engineering
+- Doing full stack web development at thyssenkrupp
